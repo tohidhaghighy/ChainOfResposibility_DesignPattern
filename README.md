@@ -1,2 +1,4 @@
 # ChainOfResposibility_DesignPattern
-ChainOfResposibility DesignPattern with Sample Dictionary
+ChainOfResposibility DesignPattern (Gang of Four)
+
+
